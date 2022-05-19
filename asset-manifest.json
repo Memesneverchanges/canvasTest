@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/canvasTest/static/css/main.fce1f487.css",
+    "main.js": "/canvasTest/static/js/main.7e5a5adf.js",
+    "static/media/starting-page-background.png": "/canvasTest/static/media/starting-page-background.9303e3e34b50014a731c.png",
+    "index.html": "/canvasTest/index.html",
+    "main.fce1f487.css.map": "/canvasTest/static/css/main.fce1f487.css.map",
+    "main.7e5a5adf.js.map": "/canvasTest/static/js/main.7e5a5adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce1f487.css",
+    "static/js/main.7e5a5adf.js"
+  ]
+}
