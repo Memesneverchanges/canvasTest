@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/canvasTest/static/css/main.fce1f487.css",
-    "main.js": "/canvasTest/static/js/main.c27ff73f.js",
-    "static/media/starting-page-background.png": "/canvasTest/static/media/starting-page-background.9303e3e34b50014a731c.png",
+    "main.css": "/canvasTest/static/css/main.176b901c.css",
+    "main.js": "/canvasTest/static/js/main.25951c28.js",
     "index.html": "/canvasTest/index.html",
-    "main.fce1f487.css.map": "/canvasTest/static/css/main.fce1f487.css.map",
-    "main.c27ff73f.js.map": "/canvasTest/static/js/main.c27ff73f.js.map"
+    "main.176b901c.css.map": "/canvasTest/static/css/main.176b901c.css.map",
+    "main.25951c28.js.map": "/canvasTest/static/js/main.25951c28.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce1f487.css",
-    "static/js/main.c27ff73f.js"
+    "static/css/main.176b901c.css",
+    "static/js/main.25951c28.js"
   ]
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.176b901c.css","mappings":"AAAA,gBAKI,YAJA,SAKA,kBACA,kBAJA,UADA,eAEA,UAGA","sources":["styles/main.sass"],"sourcesContent":["main, body,#root\r\n    margin: 0\r\n    position: fixed\r\n    padding: 0\r\n    width: 100%\r\n    height: 100% \r\n    overflow-x: hidden\r\n    overflow-y: hidden"],"names":[],"sourceRoot":""}
